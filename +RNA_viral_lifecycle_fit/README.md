@@ -20,6 +20,10 @@ Sampling based on Latin Hyper cube algorithm.
 estimate_cmf: summarizes the estimated distributions in terms of
 quantiles.
 
+plot_PracId: characterizing practical identifiability (PI) using pairwise
+correlation between the corresponding parameter values estimated in the
+final iteration of iABC.
+
 ### Context-dependent functions
 
 #### Model specific
