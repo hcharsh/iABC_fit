@@ -4,8 +4,9 @@ MATLAB codes to fit the viral life cycle dynamics using iABC algorithm.
 ### Supplementary to following article:
 "Life cycle process dependencies of positive-sense RNA viruses suggest
 strategies for inhibiting productive cellular infection" - Chhajer et al.
+Cite the article upon use of the codes.
 Current location:
-https://www.biorxiv.org/content/10.1101/2020.09.19.304576v1
+https://www.biorxiv.org/content/10.1101/2020.09.19.304576v2
 
 ### Context-independent functions
 
